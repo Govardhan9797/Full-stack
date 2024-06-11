@@ -1,6 +1,6 @@
 # Full-stack
 The Complete full stack development as per learning and my knowledge 
-The Steps were Basic</br>
+The Steps were </br>Basic</br>
                Normal</br>
                Expert.</br>
 in basic = HTML, Css, Js.</br>
